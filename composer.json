@@ -1,0 +1,23 @@
+{
+    "name": "iphper/cmd-output",
+    "description": "PHP命令行输出",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CmdOutput\\": "src/"
+        },
+        "files": [
+            "helper/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "iphper",
+            "email": "iuoping@qq.com"
+        }
+    ],
+    "require": {
+
+    }
+}
